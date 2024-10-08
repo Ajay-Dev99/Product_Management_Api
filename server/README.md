@@ -59,7 +59,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 3.Navigate into the project directory:
 ```
-cd product_management
+cd server
 ```
 4.Install the dependencies:
 ```
